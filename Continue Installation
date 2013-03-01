@@ -1,0 +1,8 @@
+1. We install php5-imagick, mailsend-bin and git.
+2. Change apache_solr_3.6.1 to apache_solr_3.5.0.
+3. Load files from git.
+4. Installed necessary schemas.
+5. Installed and load (solr module, ISTIR Module, ...).
+6. Set the maxupload filesize & assign ample memory.
+7. Remove Namespace Restrictions.
+8. At the end all above we do it successfully.
